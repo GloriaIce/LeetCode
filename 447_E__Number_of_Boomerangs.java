@@ -22,7 +22,7 @@ public class Solution {
             
             for(int val : map.values()) {
                 result += val * (val - 1);
-            } 
+            }
             map.clear();
         }
         return result;
