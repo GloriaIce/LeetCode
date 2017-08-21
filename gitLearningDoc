@@ -4,3 +4,8 @@ The second line is downloaded and merged by running command: git fetch && git me
 add the 4th line from remote with two commits
 checkout a local branch, add the 5th line
 add something from remote
+do: git pull --rebase will rebase the remote code
+do: git rebase myBranch will rebase the local branch
+there are conflits, so edit the conflict file as you want
+then git add gitLeaningDoc
+then git rebase --continue
