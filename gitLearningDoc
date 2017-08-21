@@ -1,4 +1,4 @@
 this is the first line
 add the second line from remote
 The second line is downloaded and merged by running command: git fetch && git merge 	or 		git pull
-add the 4th line
+add the 4th line from remote with two commits
