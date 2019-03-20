@@ -1,5 +1,5 @@
 # LeetCode
-Fight for Google and keep away from Seattle.
+Fight for a better life.
 
 231 easy
 288 OOD problem, think over edge case
