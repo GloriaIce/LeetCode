@@ -1,6 +1,7 @@
 # LeetCode
 Fight for a better life.
 
+<<<<<<< HEAD
 231 easy
 288 OOD problem, think over edge case
 293 easy
@@ -196,3 +197,13 @@ http://oj.leetcode.com/problems/valid-palindrome/
 http://oj.leetcode.com/problems/word-ladder/
 http://oj.leetcode.com/problems/word-ladder-ii/
 广搜：http://oj.leetcode.com/problems/surrounded-regions/
+=======
+* 56  Intervals, Two pointers
+* 231 easy
+* 252 Intervals
+* 253 Intervals, Priority queue
+* 288 OOD problem, think over edge case
+* 293 easy
+* 346 OOD problem, I met this problem in internship interview. 
+* 447 hashmap, a little bit tricky when calculating the number
+>>>>>>> add description to multiple problems
